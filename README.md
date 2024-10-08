@@ -8,4 +8,4 @@
 
 Languages and Frameworks
 
-JavaScript, C, HTML5, CSS, NodeJs
+JavaScript, C, HTML5, CSS, NodeJs, MySQL
